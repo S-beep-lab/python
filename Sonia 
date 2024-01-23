@@ -1,0 +1,4 @@
+likes = 12
+likes = 78
+likes = 90
+print(likes)
